@@ -1,0 +1,10 @@
+h1{
+	color: green;
+	font-family: sans-serif;
+	background-color: black;
+}
+div{
+	width: 100%;
+	height: 100px;
+	background-color: blueviolet;
+}
